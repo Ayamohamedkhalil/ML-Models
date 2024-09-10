@@ -117,7 +117,7 @@ def find_disorder(raw_values):
             if prediction== 0:
                  return 'Bipolar Type-1'
             elif prediction== 1:
-                 return 'Bipolar Type-1'
+                 return 'Bipolar Type-2'
             elif prediction== 2:
                 return 'Depression'
             elif prediction== 3:
